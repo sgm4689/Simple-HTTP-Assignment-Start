@@ -8,6 +8,10 @@
     "pretest": "eslint ./src --fix",
     "test": "echo \"Tests complete\""
   },
+    engines:{
+      "npm":"6.12.1",
+      "node":"12.13.1"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sgm4689/Simple-HTTP-Assignment-Start.git"
